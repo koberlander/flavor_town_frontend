@@ -1,0 +1,39 @@
+body {
+  background-color: #fff9e6;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+#title-div {
+  margin-left: 40%
+}
+
+#order-form {
+  margin-left: 40%;
+  margin-bottom: 25px;
+  display: none;
+}
+
+#show-order-div{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    height: 340px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h4 {
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
